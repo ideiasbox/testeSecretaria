@@ -1,12 +1,12 @@
 # Teste referente à vaga de secretária da empresa Ideias Box.
 
-Este teste tem como finalida comprovar as expertises necessárias para vaga de secretária da empresa Ideias Box
+Este teste tem como finalidade comprovar as expertises necessárias para vaga de secretária da empresa Ideias Box
 
 1º - Você entendeu sua função? Se sim, descreva-a.
 
-2º - Você sabe o que é back-end?
+2º - Você sabe o que é um back-end?
 
-3º - Você sabe o que é front-end?
+3º - Você sabe o que é um front-end?
 
 4º - Cite um framework para back-end.
 
